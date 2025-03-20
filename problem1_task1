@@ -1,0 +1,24 @@
+Question: I see a charge on my credit card statement but I paid on time, why?
+Response: ### Below are some customer query related to banking services. Identify the most appropiate intent category from the predicted banking intents.
+
+### Instruction:
+I see a charge on my credit card statement but I paid on time, why?
+
+### Response:
+card_payment_not_recognised
+Question: Do you have a branch in Timbuktu?
+Response: ### Below are some customer query related to banking services. Identify the most appropiate intent category from the predicted banking intents.
+
+### Instruction:
+Do you have a branch in Timbuktu?
+
+### Response:
+country_support
+Question: I lost my card and my replacement card has not arrived.
+Response: ### Below are some customer query related to banking services. Identify the most appropiate intent category from the predicted banking intents.
+
+### Instruction:
+I lost my card and my replacement card has not arrived.
+
+### Response:
+card_arrival
